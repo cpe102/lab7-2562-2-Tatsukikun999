@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:ไตรภพ ศรีมณี
+# STUDENT ID:620610788
